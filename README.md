@@ -17,6 +17,7 @@ command：<code>sudo systemctl enable docker --now</code><br>
 <img src="https://github.com/laiyutong/docker_install/blob/main/3.png" alt="3" width="70%">
 
 <h2>Common commands</h2>
+Show all image files stored locally doc.<br>
 command：<code>docker images</code><br>
 <img src="https://github.com/laiyutong/docker_install/blob/main/4.png" alt="4" width="70%">
 
