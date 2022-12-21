@@ -8,10 +8,11 @@ Update the package library before executing.<br>
 command：<code>sudo apt update</code><br>
 <img src="https://github.com/laiyutong/docker_install/blob/main/1.png" alt="1" width="70%">
 
-Install docker.io.<br>
+Install <a href="https://www.docker.com/">docker.io</a>.<br>
 command：<code>sudo apt install -y docker.io</code><br>
 <img src="https://github.com/laiyutong/docker_install/blob/main/2.png" alt="2" width="70%">
 
+Start executing docker.<br>
 command：<code>sudo systemctl enable docker --now</code><br>
 <img src="https://github.com/laiyutong/docker_install/blob/main/3.png" alt="3" width="70%">
 
