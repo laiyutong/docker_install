@@ -20,6 +20,7 @@ command：<code>sudo systemctl enable docker --now</code><br>
 command：<code>docker images</code><br>
 <img src="https://github.com/laiyutong/docker_install/blob/main/4.png" alt="4" width="70%">
 
+List and view the list of all running containers.<br>
 command：<code>docker ps -a</code><br>
 <img src="https://github.com/laiyutong/docker_install/blob/main/5.png" alt="5" width="70%">
 
